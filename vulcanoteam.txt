@@ -1,0 +1,18 @@
+#<block-vulcanoteam>
+127.0.0.1 gestionepos.it
+127.0.0.1 www.gestionepos.it
+127.0.0.1 ftp.gestionepos.it
+127.0.0.1 vulcanoteam.biz
+# 127.0.0.1 www.vulcanoteam.biz
+127.0.0.1 ftp.vulcanoteam.biz
+127.0.0.1 vulcanoteam.org
+127.0.0.1 www.vulcanoteam.org
+127.0.0.1 ftp.vulcanoteam.org
+127.0.0.1 vulcanoteam.it
+127.0.0.1 www.vulcanoteam.it
+127.0.0.1 ftp.vulcanoteam.it
+127.0.0.1 vulcanoteam.database.windows.net
+127.0.0.1 vulcanoteam.ns0.it
+127.0.0.1 host180-34-static.10-79-b.business.telecomitalia.it
+# 127.0.0.1	79.10.34.180
+#</block-vulcanoteam>
