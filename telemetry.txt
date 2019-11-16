@@ -1,0 +1,6 @@
+#<telemetry>
+0.0.0.0	d3mqcjfibgvgeu.cloudfront.net
+0.0.0.0	analytics.ns1.ff.avast.com
+0.0.0.0	techs33.tbnet2.com
+0.0.0.0 elbv1-legacy-telemetry-prod-ext-95221562.us-west-2.elb.amazonaws.com
+#</temeletry>
