@@ -1,3 +1,3 @@
 # hosts
 
-Raccolda di record hosts
+Raccolta di record hosts
