@@ -1,6 +1,6 @@
 # hosts
 
-## Raccolta di record hosts
+## Raccolta di record [hosts](https://en.wikipedia.org/wiki/Hosts_(file))
 
 - activations: host di attivazione/convalida per vari programmi
 - adobe: host di attivazione/convalida per i prodotti Adobe
