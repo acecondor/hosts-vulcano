@@ -32,6 +32,7 @@
 127.0.0.1 camtasiatudi.techsmith.com
 127.0.0.1 tsccloud.cloudapp.net
 127.0.0.1 assets.cloud.techsmith.com
+127.0.0.1 techs37.tbnet2.com
 #</block-techsmith>
 <block-glasswire>
 activate.glasswire.com
