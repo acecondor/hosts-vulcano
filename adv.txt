@@ -1,0 +1,8 @@
+#<block-adv-mc>
+#*.msf.cdn.mediaset.net
+feed.4wnet.com
+cdn.feed.4wnet.com
+adagiofe.neodatagroup.com
+ad-aws-it.neodatagroup.com
+ads.viralize.tv
+#</block-adv-mc>
