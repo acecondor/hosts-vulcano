@@ -1,3 +1,10 @@
 #<update>
+#<glasswire>
 0.0.0.0	update.glasswire.com
+#</glasswire>
+#<techsmith>
+0.0.0.0 cs9.wac.phicdn.net
+0.0.0.0 updater.techsmith.com
+# 104.83.112.228
+#</techsmith>
 #</update>
