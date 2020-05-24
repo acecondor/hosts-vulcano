@@ -5,4 +5,5 @@ cdn.feed.4wnet.com
 adagiofe.neodatagroup.com
 ad-aws-it.neodatagroup.com
 ads.viralize.tv
+feed.4strokemedia.com
 #</block-adv-mc>
