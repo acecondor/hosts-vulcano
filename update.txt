@@ -7,4 +7,7 @@
 0.0.0.0 updater.techsmith.com
 # 104.83.112.228
 #</techsmith>
+#<agilebits-1password>
+0.0.0.0 c.1password.com
+#</agilebits-1password>
 #</update>
