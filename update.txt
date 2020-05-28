@@ -9,5 +9,6 @@
 #</techsmith>
 #<agilebits-1password>
 0.0.0.0 c.1password.com
+# https://c.1password.com/dist/1P/win6/updates.json
 #</agilebits-1password>
 #</update>
