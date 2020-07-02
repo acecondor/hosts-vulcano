@@ -35,6 +35,7 @@
 127.0.0.1 assets.cloud.techsmith.com
 127.0.0.1 techs37.tbnet2.com
 #</block-techsmith>
-<block-glasswire>
-activate.glasswire.com
-#</block-glasswire>
+#<block-others>
+127.0.0.1 activate.glasswire.com
+127.0.0.1 activate.southrivertech.com
+#</block-others>
