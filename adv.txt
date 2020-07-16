@@ -1,10 +1,10 @@
 #<block-adv-mc>
 #*.msf.cdn.mediaset.net
-feed.4wnet.com
-cdn.feed.4wnet.com
-adagiofe.neodatagroup.com
-ad-aws-it.neodatagroup.com
-ads.viralize.tv
-feed.4strokemedia.com
-k.theoutplay.com
+127.0.0.1 feed.4wnet.com
+127.0.0.1 cdn.feed.4wnet.com
+127.0.0.1 adagiofe.neodatagroup.com
+127.0.0.1 ad-aws-it.neodatagroup.com
+127.0.0.1 ads.viralize.tv
+127.0.0.1 feed.4strokemedia.com
+127.0.0.1 k.theoutplay.com
 #</block-adv-mc>
