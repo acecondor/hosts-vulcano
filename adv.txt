@@ -6,4 +6,5 @@ adagiofe.neodatagroup.com
 ad-aws-it.neodatagroup.com
 ads.viralize.tv
 feed.4strokemedia.com
+k.theoutplay.com
 #</block-adv-mc>
