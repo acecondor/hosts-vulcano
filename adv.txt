@@ -9,4 +9,5 @@
 127.0.0.1 k.theoutplay.com
 127.0.0.1 s.theoutplay.com
 127.0.0.1 W.theoutplay.com
+127.0.0.1 cdn.brid.tv
 #</block-adv-mc>
