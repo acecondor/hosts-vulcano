@@ -13,6 +13,8 @@
 127.0.0.1 ftp.vulcanoteam.it
 127.0.0.1 vulcanoteam.database.windows.net
 127.0.0.1 vulcanoteam.ns0.it
-127.0.0.1 host185-208-static.6-79-b.business.telecomitalia.it
-# 127.0.0.1	79.6.208.185
+127.0.0.1 213-182-77-178.ip.welcomeitalia.it
+# 213.182.77.178.ip.welcomeitalia.it
+# host185-208-static.6-79-b.business.telecomitalia.it
+# 79.6.208.185
 #</block-vulcanoteam>
