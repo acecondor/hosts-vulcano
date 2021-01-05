@@ -38,4 +38,5 @@
 #<block-others>
 127.0.0.1 activate.glasswire.com
 127.0.0.1 activate.southrivertech.com
+127.0.0.1 activate.eltima.com
 #</block-others>
