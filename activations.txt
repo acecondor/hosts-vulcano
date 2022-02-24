@@ -55,4 +55,5 @@
 127.0.0.1 activate.glasswire.com
 127.0.0.1 activate.southrivertech.com
 127.0.0.1 activate.eltima.com
+127.0.0.1 productlogin.red-gate.com
 #</block-others>
