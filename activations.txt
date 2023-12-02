@@ -22,7 +22,7 @@
 127.0.0.1 hlrcv.stage.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
-127.0.0.1 uds-prod.licensingstack.com	
+127.0.0.1 uds-prod.licensingstack.com
 127.0.0.1 license.piriform.com 
 #</block-adobe>
 #<block-techsmith>
@@ -59,4 +59,6 @@
 127.0.0.1 licensing.red-gate.com
 127.0.0.1 account.synology.com
 127.0.0.1 dlid.synology.com
+127.0.0.1 product-activation-api.devart.com
+127.0.0.1 service_v1.devart.com   
 #</block-others>
