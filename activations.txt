@@ -50,6 +50,7 @@
 127.0.0.1 api.photolemur.com
 127.0.0.1 media.macphun.com
 127.0.0.1 luminaraiwin.skylum.com
+127.0.0.1 luminarneowin.skylum.com
 #</block-skylum-luminar>
 #<block-others>
 127.0.0.1 activate.glasswire.com
